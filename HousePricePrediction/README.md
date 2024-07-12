@@ -84,9 +84,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch
 5. Open a Pull Request
 
-# License
-
-Distributed under the GNU General Public License v3.0. See ```LICENSE.txt``` for more information.
 
 # Acknowledgements
 This project was inspired by the Kaggle dataset on Boston House Price Prediction and the corresponding competition. We also acknowledge the open-source Python libraries used in this project and their contributors.
